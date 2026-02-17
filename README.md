@@ -88,9 +88,10 @@ Here are some ideas to get you started: -->
 ## 📊 Моя статистика:
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dasanchik17&show_icons=true&hide_title=true" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=dasanchik17" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dasanchik17&show_icons=true&hide_title=true&theme=dark&cache_seconds=1800" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=dasanchik17&theme=dark" />
 </div>
+
 
 
 
