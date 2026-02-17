@@ -1,4 +1,4 @@
-<h1 align="center">Привет<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  Я Ренат</h1>
+<h1 align="center">Привет<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  Я Ренат — Frontend-разработчик</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +10,7 @@ Here are some ideas to get you started: -->
 
 <br/>👨🏻‍💻 Обо мне:
 
-<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
-- 👋 Привет! Я **Ренат** — Frontend-разработчик (React / TypeScript)
+<!-- <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
 
 - 📍 Нахожусь в **Абхазии**, открыт к **удалённой работе** и проектам
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started: -->
 
 - ⚡ Моя сильная сторона: дисциплина и фокус на результате
 
-- <br/>🛠️ Технологии и инструменты, которые я использую:
+## 🛠️ Технологии и инструменты, которые я использую:
 
 <p>
 <!-- <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/> -->
@@ -102,6 +100,7 @@ Here are some ideas to get you started: -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160"/>
 </div>
+
 
 
 
