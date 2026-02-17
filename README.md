@@ -88,9 +88,19 @@ Here are some ideas to get you started: -->
 ## 📊 Моя статистика:
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dasanchik17&show_icons=true&hide_title=true&theme=dark&cache_seconds=1800" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=dasanchik17&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasanchik17&theme=github_dark" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasanchik17&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasanchik17&theme=github_dark" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160"/>
+</div>
+
 
 
 
