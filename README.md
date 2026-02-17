@@ -1,4 +1,4 @@
-<h1 align="center">Привет<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  Я Ренат Дасания</h1>
+<h1 align="center">Привет<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  Я Ренат</h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,8 @@ Here are some ideas to get you started: -->
 
 - ⚡ Моя сильная сторона: дисциплина и фокус на результате
 
+- <br/>🛠️ Технологии и инструменты, которые я использую:
+
 <p>
 <!-- <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/> -->
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -55,7 +57,7 @@ Here are some ideas to get you started: -->
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-## ❤️ Связаться со мной:
+##  Связаться со мной:
 
 <p>
   <!-- GitHub -->
@@ -86,8 +88,10 @@ Here are some ideas to get you started: -->
 ## 📊 Моя статистика:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dasanchik17&show_icons=true" />
-  <img align="center" src="https://streak-stats.demolab.com/?user=dasanchik17" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dasanchik17&show_icons=true&hide_title=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=dasanchik17" />
 </div>
+
+
 
 
