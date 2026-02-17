@@ -85,17 +85,20 @@ Here are some ideas to get you started: -->
 
 <a href="https://t.me/dasanchik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Мой ТГ" height="60px" width="200px"></a>
 
-## 📊 Моя статистика:
+## 📊 Моя статистика GitHub
 
+### 🧾 Общий профиль
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasanchik17&theme=github_dark" />
 </div>
 
+### 💻 Языки в репозиториях
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasanchik17&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasanchik17&theme=github_dark" height="160"/>
 </div>
 
+### 🚀 Активность и продуктивность
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160"/>
