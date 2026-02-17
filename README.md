@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-    <img src ="./img.png (2).svg" />
+   <img src ="./abkhazia_img.png.svg" />
   
 </div>
 
@@ -103,6 +103,7 @@ Here are some ideas to get you started: -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160"/>
 </div>
+
 
 
 
