@@ -1,113 +1,175 @@
-<h1 align="center">Привет<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">  Я Ренат — Frontend-разработчик</h1>
-
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
 <div align="center">
-  <img src="./renat_developer.png" />
+
+# Привет! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Привет" /> Я Ренат
+
+### Junior Full Stack JavaScript Developer
+
+**React · Node.js · Express · MongoDB**
+
+Разрабатываю современные веб-приложения — от интерфейса до серверной логики и базы данных.
+
+📍 Абхазия · 🌍 Remote · 💼 Open to Work (Full-time)
+
+<!-- <img src="./" alt="" width="650" /> -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasanchik17)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasanchik)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatdasania8@gmail.com)
+
 </div>
 
-<br/>👨🏻‍💻 Обо мне:
+---
 
-<!-- <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" /> -->
+## 👨🏻‍💻 Обо мне
 
-- 📍 Нахожусь в **Абхазии**, открыт к **удалённой работе** и проектам
+Я Full Stack JavaScript разработчик, создаю веб-приложения на **React, Node.js, Express и MongoDB**.
 
-- 🎓 Учусь на курсах по **Frontend-разработке** (React / TypeScript)
+- 🚀 Разработал **Aroma Абхазия** — Full Stack интернет-магазин парфюмерии с клиентской и серверной частями.
+- 🔐 Работал с JWT-авторизацией, REST API и MongoDB.
+- ⚛️ Использую React Hooks, React Router и Zustand для создания интерфейсов и управления состоянием.
+- 🧩 Знаком с TypeScript: базовые типы, interfaces, union types и optional properties.
+- 🎓 Изучаю программную инженерию в БГТУ им. В. Г. Шухова, окончание — 2027 год.
+- 💼 Рассматриваю позиции **Junior Full Stack JavaScript Developer** и **Junior Frontend React Developer**.
+- 🕒 Готов к полной занятости (40 часов в неделю) и удалённой работе.
 
-- 🏫 Получаю **два высших образования** (одно — онлайн)
+---
 
-- 🤝 Имею опыт **командной разработки**, участвую в **хакатонах**
+## 🛠️ Мой технологический стек
 
-- 🔭 Сейчас работаю над проектами на **React/TypeScript** и развиваю портфолио на GitHub
-
-- 🌱 Изучаю **React-экосистему** и основы **Full-stack** (Node.js)
-
-- ⚡ Моя сильная сторона: дисциплина и фокус на результате
-
-## 🛠️ Технологии и инструменты, которые я использую:
+### Frontend
 
 <p>
-<!-- <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/> -->
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<!-- <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/> -->
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<!-- <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/> -->
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite" alt="Frontend technologies" />
 </p>
 
-##  Связаться со мной:
+**JavaScript · TypeScript · React · React Router · Zustand · HTML5 · CSS3 · Vite**
+
+### Backend и базы данных
 
 <p>
-  <!-- GitHub -->
-  <a href="https://github.com/renatdasania8" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" height="30px"/>
-  </a>
-
-  <!-- Email -->
-  <a href="mailto:renatdasania8@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/dasanchik" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="30px"/>
-  </a>
-
-  <!-- VK -->
-  <a href="https://vk.com/id521342165" target="_blank">
-    <img alt="VK" src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" height="30px"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend technologies" />
 </p>
 
-## 🤝 Если хочешь поддержать:
+**Node.js · Express.js · REST API · JWT · MongoDB · Mongoose**
 
-<a href="https://t.me/dasanchik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Мой ТГ" height="60px" width="200px"></a>
+### Инструменты
 
-## 📊 Моя статистика GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" alt="Development tools" />
+</p>
 
-### 🧾 Общий профиль
+**Git · GitHub · Docker (учебная практика) · Vercel**
+
+### Дополнительные навыки
+
+- Axios, Fetch API, async/await
+- React Hook Form, Zod
+- CSS Modules, Flexbox, Grid, адаптивная вёрстка
+- Работа с HTTP-запросами, middleware и обработкой ошибок
+
+---
+
+## 🚀 Главный проект — Aroma Абхазия
+
+### Full Stack интернет-магазин парфюмерии
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasanchik17&theme=github_dark" />
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2ea44f?style=for-the-badge)](https://perfume-abkhazia.vercel.app/)
+[![Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dasanchik17/dasanchik17-perfume-of-Abkhazia)
+
 </div>
 
-### 💻 Языки в репозиториях
+**Aroma Абхазия** — Full Stack веб-приложение интернет-магазина с каталогом товаров, корзиной, системой авторизации и административной панелью.
+
+### Основные возможности
+
+- 🛍️ Каталог товаров с поиском, фильтрацией и сортировкой.
+- 🛒 Корзина с сохранением состояния через Zustand persist.
+- 🔐 Регистрация и авторизация пользователей с JWT.
+- 📦 Оформление и управление заказами.
+- ⚙️ Административная панель для управления товарами и заказами.
+- 🌐 REST API на Node.js и Express.
+- 🗄️ Хранение данных в MongoDB с использованием Mongoose.
+- 📱 Адаптивный интерфейс для мобильных и десктопных устройств.
+
+### Технологии проекта
+
+| Frontend     | Backend    | Database      |
+| ------------ | ---------- | ------------- |
+| React        | Node.js    | MongoDB       |
+| Vite         | Express.js | Mongoose      |
+| Zustand      | JWT        | MongoDB Atlas |
+| React Router | bcryptjs   |               |
+| Axios        | REST API   |               |
+| CSS Modules  |            |               |
+
+### Архитектура
+
+```text
+Aroma Абхазия
+│
+├── client/
+│   ├── React Components
+│   ├── Pages
+│   ├── Routing
+│   ├── Zustand Stores
+│   └── API Requests
+│
+└── server/
+    ├── Routes
+    ├── Controllers
+    ├── Middleware
+    ├── Models
+    └── MongoDB
+```
+
+### Что я реализовал
+
+- Разработку клиентской части приложения на React.
+- Интеграцию интерфейса с серверным REST API.
+- Управление состоянием корзины и других данных через Zustand.
+- Серверную логику на Node.js и Express.
+- Авторизацию пользователей с JWT.
+- Работу с базой данных MongoDB.
+- Административные функции управления товарами и заказами.
+
+**🔗 [Посмотреть работающий проект](https://perfume-abkhazia.vercel.app/)**
+
+**📂 [Изучить исходный код](https://github.com/dasanchik17/dasanchik17-perfume-of-Abkhazia)**
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasanchik17&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasanchik17&theme=github_dark" height="160"/>
+
+### Общая статистика профиля
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dasanchik17&theme=github_dark" alt="GitHub Profile Statistics" />
+
+### Языки программирования
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dasanchik17&theme=github_dark" height="160" alt="Languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dasanchik17&theme=github_dark" height="160" alt="Languages by commits" />
+
+### Активность
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160" alt="GitHub activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160" alt="Commit activity" />
+
 </div>
 
-### 🚀 Активность и продуктивность
+---
+
+## 📫 Связаться со мной
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dasanchik17&theme=github_dark" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dasanchik17&theme=github_dark&utcOffset=3" height="160"/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dasanchik)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatdasania8@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dasanchik17)
+
+**Открыт к удалённой работе и сотрудничеству.**
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
